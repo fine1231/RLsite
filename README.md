@@ -55,7 +55,7 @@ STEP 6: Predicting
 
 The predicting can be executed by:
 ```
-python main.py
+python main.py > ./Output/result.dat
 ```
 
 The predicted result of RLsite will be output
