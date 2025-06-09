@@ -1,0 +1,38 @@
+load path datas...
+get feature datas...
+get TE18_nucleic dic...
+get TE9_nucleic dic...
+get JL10_nucleic dic...
+get TL12_nucleic dic...
+model args...
+cuda size == 1
+
+Current test nucleic:  6wtr_A
+JL10 size = 125   test recall = 0.343   test precision = 0.706   test auc = 0.825   test Mcc =  0.376
+
+Current test nucleic:  6wzs_B
+JL10 size = 60   test recall = 0.467   test precision = 0.636   test auc = 0.788   test Mcc =  0.423
+
+Current test nucleic:  7eaf_A
+JL10 size = 94   test recall = 0.261   test precision = 0.375   test auc = 0.628   test Mcc =  0.137
+
+Current test nucleic:  7eqj_B
+JL10 size = 75   test recall = 0.6   test precision = 0.4   test auc = 0.735   test Mcc =  0.392
+
+Current test nucleic:  7kga_A
+JL10 size = 89   test recall = 0.111   test precision = 0.667   test auc = 0.531   test Mcc =  0.041
+
+Current test nucleic:  7kvu_G
+JL10 size = 83   test recall = 0.375   test precision = 0.75   test auc = 0.84   test Mcc =  0.461
+
+Current test nucleic:  7tzr_X
+JL10 size = 80   test recall = 0.533   test precision = 0.667   test auc = 0.81   test Mcc =  0.516
+
+Current test nucleic:  7uq6_B
+JL10 size = 86   test recall = 0.158   test precision = 0.75   test auc = 0.651   test Mcc =  0.199
+
+Current test nucleic:  7uz0_A
+JL10 size = 87   test recall = 0.208   test precision = 0.455   test auc = 0.612   test Mcc =  0.152
+
+Current test nucleic:  9bun_C
+JL10 size = 48   test recall = 0.179   test precision = 0.833   test auc = 0.62   test Mcc =  0.192
